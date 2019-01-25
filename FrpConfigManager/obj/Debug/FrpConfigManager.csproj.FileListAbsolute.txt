@@ -1,0 +1,11 @@
+E:\GitHubCodes\FrpConfigManager\FrpConfigManager\bin\Debug\FrpConfigManager.exe.config
+E:\GitHubCodes\FrpConfigManager\FrpConfigManager\bin\Debug\FrpConfigManager.exe
+E:\GitHubCodes\FrpConfigManager\FrpConfigManager\bin\Debug\FrpConfigManager.pdb
+E:\GitHubCodes\FrpConfigManager\FrpConfigManager\obj\Debug\FrpConfigManager.csprojAssemblyReference.cache
+E:\GitHubCodes\FrpConfigManager\FrpConfigManager\obj\Debug\FrpConfigManager.FrmMain.resources
+E:\GitHubCodes\FrpConfigManager\FrpConfigManager\obj\Debug\FrpConfigManager.FrmTest.resources
+E:\GitHubCodes\FrpConfigManager\FrpConfigManager\obj\Debug\FrpConfigManager.Properties.Resources.resources
+E:\GitHubCodes\FrpConfigManager\FrpConfigManager\obj\Debug\FrpConfigManager.csproj.GenerateResource.cache
+E:\GitHubCodes\FrpConfigManager\FrpConfigManager\obj\Debug\FrpConfigManager.csproj.CoreCompileInputs.cache
+E:\GitHubCodes\FrpConfigManager\FrpConfigManager\obj\Debug\FrpConfigManager.exe
+E:\GitHubCodes\FrpConfigManager\FrpConfigManager\obj\Debug\FrpConfigManager.pdb
